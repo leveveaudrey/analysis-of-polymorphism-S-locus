@@ -1,4 +1,6 @@
-I) generate the different files
+please cite 	Le Veve, A, Genete, M., Lepers-Blassiau, C., Ponitzki, C., Poux, C., Vekemans, X., Durand, E., Castric, V., 2024. The genetic architecture of the load linked to dominant and recessive self-incompatibility alleles in Arabidopsis halleri and A. lyrata. eLife 13. https://doi.org/10.7554/eLife.94972.2
+
+Le Veve, A., Burghgraeve, N., Genete, M., Lepers-Blassiau, C., Takou, M., De Meaux, J., Mable, B.K., Durand, E., Vekemans, X., Castric, V., 2023. Long-Term Balancing Selection and the Genetic Load Linked to the Self-Incompatibility Locus in Arabidopsis halleri and A. lyrata. Mol Biol Evol 40, msad120. https://doi.org/10.1093/molbev/msad120 I) generate the different files
 
 
 	the first step of the analysis consist to generate all files necessary for the pipeline. the method used to generate these files are decribed below, one by one:
